@@ -1,4 +1,7 @@
 # 📝 Text Editor CLI Project
+![GitHub repo size](https://img.shields.io/github/repo-size/jamesbilis/Text-Editor-CLI)
+![Last Commit](https://img.shields.io/github/last-commit/jamesbilis/Text-Editor-CLI)
+![License](https://img.shields.io/github/license/jamesbilis/Text-Editor-CLI)
 
 This is a command-line Python application that allows users to read, edit, analyze, and save changes to a text file. It serves as a full-featured text editor with word analysis capabilities.
 
